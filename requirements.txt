@@ -14,7 +14,7 @@ mccabe==0.6.1
 pyfiglet==0.8.post1
 pylint==2.6.0
 pytelegrambotapi==3.7.3
-requests==2.7.0
+requests==2.20.0
 six==1.15.0
 toml==0.10.1
 urllib3==1.26.5
